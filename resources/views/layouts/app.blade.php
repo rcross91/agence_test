@@ -64,9 +64,6 @@
     <script src="{{ asset('js/sweet-alert.init.js') }}"></script>
     <script src="{{ asset('assets/node_modules/bootstrap-select/bootstrap-select.min.js') }}" type="text/javascript"></script>
     <script type="text/javascript" src="{{asset('assets/node_modules/multiselect/js/jquery.multi-select.js') }}"></script>
-    <script src="{{asset('assets/inputmask/dist/inputmask/inputmask.js')}}"></script>
-    <script src="{{asset('assets/inputmask/dist/inputmask/jquery.inputmask.js')}}"></script>
-    <script src="{{asset('assets/inputmask/dist/inputmask/inputmask.date.extensions.js')}}"></script>
     <script src="{{ asset('assets/node_modules/multiselect/js/jquery.multi-select.js') }}" type="text/javascript"></script>
 
     @yield('javascript')
